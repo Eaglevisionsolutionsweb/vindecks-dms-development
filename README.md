@@ -1,1 +1,1 @@
-# vindecks-dms-development
+# Vindecks Dealership Management System

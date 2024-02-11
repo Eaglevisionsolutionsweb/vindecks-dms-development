@@ -1,0 +1,2 @@
+[1.0.0 (02.11.2024)](https://github.com/Eaglevisionsolutionsweb/vindecks-dms-development/main/CHANGELOG.md#1.0.0)
+=================================================================================================================
