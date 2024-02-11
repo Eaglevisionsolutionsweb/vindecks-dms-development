@@ -2,5 +2,5 @@
 =================================================================================================================
 What's New:
 
-*add laravel installation
-*add CHANGELOG.md to log and track changes Enhancements and Bug Fixes
+* add laravel installation
+* add CHANGELOG.md to log and track changes Enhancements and Bug Fixes
